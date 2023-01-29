@@ -228,6 +228,7 @@ transform: scale(1.05);
   }  
   .list{
      list-style-type: disc; 
+     color: gray;
   }
   .news{
       display: flex;
