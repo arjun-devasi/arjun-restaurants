@@ -117,10 +117,14 @@ button:hover{
         flex-direction: column;
        align-content: center;
        justify-content: center;
+       gap: 20px;
     }
     .textf{
         display: flex;
         width: 1px;
+    }
+    .footer_cont{
+        flex-direction: column;
     }
 
 }
@@ -140,7 +144,7 @@ button:hover{
 .feature{
     display: flex;
     
-    gap: 200px;
+    gap: 40px;
     padding-top:50px ;
 }
 .textf{
